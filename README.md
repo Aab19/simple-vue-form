@@ -1,4 +1,4 @@
-# adeptformstest
+# Simple Vue Form
 
 ## Project setup
 ```
