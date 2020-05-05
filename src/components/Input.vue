@@ -12,7 +12,7 @@
       required
     />
     <span class="form-error" v-if="this.error">{{message}}</span>
-    <p>{{errorSubmit}}</p>
+    <!-- <p>{{errorSubmit}}</p> -->
   </div>
 </template>
 

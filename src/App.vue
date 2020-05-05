@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="container">
-      <img class="logo" src="./assets/img/adeptforms.png" alt />
+      <img class="logo" src="./assets/img/logo.png" alt />
       <div class="row">
         <div class="col-6 offset-md-3">
           <div class="header-wrapper text-center">
@@ -164,8 +164,13 @@ body {
   color: #424143;
 }
 
+form {
+  margin-bottom: 12px;
+}
+
 .logo {
   margin-top: 12px;
+  max-width: 50px;
 }
 
 label {
